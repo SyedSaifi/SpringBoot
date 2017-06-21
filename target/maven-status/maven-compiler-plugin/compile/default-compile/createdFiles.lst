@@ -1,0 +1,4 @@
+com\exmaple\springboot\topic\Topic.class
+com\exmaple\springboot\topic\TopicController.class
+com\exmaple\springboot\topic\TopicService.class
+com\exmaple\springboot\SpringBootApiApp.class
